@@ -1,0 +1,14 @@
+h1,
+h2 {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: rgb(16, 16, 90);
+  color: aqua;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
